@@ -166,6 +166,10 @@ The [2x4 rides ticket](https://www.vag-freiburg.de/tickets/einzel-und-tageskarte
 
 ### Lodging
 
+If you book before September 21st 2023, we can offer you a special rate for two hotels in Freiburg. Afterwards, please use the usual portals such as booking.com etc.
+
+[Special rate booking link](https://tportal.toubiz.de/freiburgKongresse/ukv/?doSearch=1&ukv_result_order=1&number_adult=1&rate=FIT00020071573930301&date_from=03.10.2023&date_to=06.10.2023&reset=1&globalReset=1&lang=en)
+
 Apart from simply using any hotel booking portal of your choice, we can recommend the following accommodations, grouped by city area.
 
 #### City Center
