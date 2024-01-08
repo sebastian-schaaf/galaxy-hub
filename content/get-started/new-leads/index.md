@@ -4,7 +4,7 @@ title: Set up your own community
 
 <div class='right'><img src="/images/undraw-illustrations/mind_map.svg" alt="" width="240" /></div>
 
-There are many communities established within Galaxy based on [**region**](/community/#regional-communities) or [**domain of science**](/community/#communities-of-practice) but if you feel like you just don't see your own or don't feel identified with them, you can create your own community!
+There are many communities established within Galaxy based on [**region**](/community/regional/) or [**domain of science**](/community/practice) but if you feel like you just don't see your own or don't feel identified with them, you can create your own community!
 
 Below you'll find a suggested path to follow before you can start your own community, a list of Do's and Don'ts and also useful links you should probably check out.
 
